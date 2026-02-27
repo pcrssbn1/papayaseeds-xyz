@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://papayaseeds.xyz/sitemap.xml
